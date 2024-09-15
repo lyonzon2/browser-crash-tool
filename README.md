@@ -25,9 +25,12 @@ This tool exploits a vulnerability in iOS WebKit (CVE-2020-27950) using Metasplo
 2. **Install Ngrok**: If ngrok is not installed, you can install it with:
    ```bash
    sudo apt install ngrok```
-3.**Authenticate Ngrok using your token**
-  ``` ngrok authtoken YOUR_AUTH_TOKEN```
 
-**Replace YOUR_AUTH_TOKEN with the token you copied from the Ngrok Dashboard.**
-
-
+3. **Authenticate Ngrok using your token**:
+   - Sign up for a free Ngrok account on the [Ngrok website](https://ngrok.com).
+   - Obtain your authentication token from the Ngrok Dashboard.
+   - Authenticate Ngrok with the following command:
+     ```bash
+     ngrok authtoken YOUR_AUTH_TOKEN
+     ```
+     Replace `YOUR_AUTH_TOKEN` with the token you obtained from the Ngrok Dashboard.
