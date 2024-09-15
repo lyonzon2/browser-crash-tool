@@ -21,4 +21,13 @@ This tool exploits a vulnerability in iOS WebKit (CVE-2020-27950) using Metasplo
 
 1. **Install Metasploit**: If Metasploit is not installed, you can install it with:
    ```bash
-   sudo apt install metasploit-framework
+   sudo apt install metasploit-framework```
+2. **Install Ngrok**: If ngrok is not installed, you can install it with:
+   ```bash
+   sudo apt install ngrok```
+3.**Authenticate Ngrok using your token**
+  ``` ngrok authtoken YOUR_AUTH_TOKEN```
+
+**Replace YOUR_AUTH_TOKEN with the token you copied from the Ngrok Dashboard.**
+
+
