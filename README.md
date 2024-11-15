@@ -23,10 +23,10 @@ https://github.com/user-attachments/assets/1eb73bec-cc79-4f0a-8859-70e4a4d7db5a
 
 1. **Install Metasploit**: If Metasploit is not installed, you can install it with:
    ```bash
-   sudo apt install metasploit-framework```
+   sudo apt install metasploit-framework
 2. **Install Ngrok**: If ngrok is not installed, you can install it with:
    ```bash
-   sudo apt install ngrok```
+   sudo apt install ngrok
 
 3. **Authenticate Ngrok using your token**:
    - Sign up for a free Ngrok account on the [Ngrok website](https://ngrok.com).
