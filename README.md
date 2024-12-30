@@ -4,6 +4,12 @@
 
 This tool exploits a vulnerability in iOS WebKit (CVE-2020-27950) using Metasploit’s `webkit_backdrop_filter_blur` auxiliary module. But seems it work on all browsers after some testing ,It crashes the target browser by loading a crafted web page. The tool also uses `ngrok` to create a publicly accessible link to the malicious page, making it easy to send to a target.
 
+Disclaimer:
+This tool is designed solely for educational purposes and to assist cybersecurity professionals in understanding browser vulnerabilities and testing them in a controlled environment. Misuse of this tool for unauthorized or malicious activities is strictly prohibited.
+
+By using this tool, you agree to comply with all applicable laws and ethical guidelines. The creator of this tool assumes no responsibility for any damage or legal consequences resulting from its misuse.
+
+Always obtain proper authorization before testing any system.
 https://github.com/user-attachments/assets/1eb73bec-cc79-4f0a-8859-70e4a4d7db5a
 
 ## Requirements
