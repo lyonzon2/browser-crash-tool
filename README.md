@@ -10,6 +10,7 @@ This tool is designed solely for educational purposes and to assist cybersecurit
 By using this tool, you agree to comply with all applicable laws and ethical guidelines. The creator of this tool assumes no responsibility for any damage or legal consequences resulting from its misuse.
 
 Always obtain proper authorization before testing any system.
+
 https://github.com/user-attachments/assets/1eb73bec-cc79-4f0a-8859-70e4a4d7db5a
 
 ## Requirements
